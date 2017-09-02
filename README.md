@@ -1,11 +1,8 @@
-##Codeforces Submissions ( Algorithmic Problems )
-
+# Codeforces Submissions ( Algorithmic Problems )
 This repository includes solutions to Algorithmic problems on codeforces, which I have solved in under username "jvj_iit".
 
 To access the problem corresponding to a solution, use the following URL :
-
 http://codeforces.com/problemset/problem/{contest_no}/{problem_id}
-
 contest_no : Folder name in which solution file is contained.
 problem_id : first character of solution file name 'A'-'Z'
 
