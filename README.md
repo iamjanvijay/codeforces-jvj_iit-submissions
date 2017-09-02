@@ -11,6 +11,6 @@ problem_id : first character of solution file name 'A'-'Z'
 
 e.g. : for solution file  "C[ Magic Formulas ].cpp" in folder "424" problem url is : http://codeforces.com/problemset/problem/424/C
 
-If you wish to discuss any of th problem I have solved, feel free to contact : http://codeforces.com/profile/jvj_iit
+If you wish to discuss any of the problem I have solved, feel free to contact : http://codeforces.com/profile/jvj_iit
 
 ## HAPPY CODING ! ;)
