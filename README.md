@@ -12,4 +12,4 @@ e.g. : for solution file  "C[ Magic Formulas ].cpp" in folder "424" problem url 
 
 If you wish to discuss any of th problem I have solved, feel free to contact : http://codeforces.com/profile/jvj_iit
 
-HAPY CODING ! ;)
+## HAPPY CODING ! ;)
