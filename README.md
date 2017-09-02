@@ -1,5 +1,5 @@
 # Codeforces Submissions ( Algorithmic Problems )
-This repository includes solutions to Algorithmic problems on codeforces, which I have solved in under username "jvj_iit".
+This repository includes solutions to Algorithmic problems on codeforces, which I have solved under username "jvj_iit".
 
 To access the problem corresponding to a solution, use the following URL :
 
